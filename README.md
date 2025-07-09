@@ -1,4 +1,4 @@
 using cpp
-- b hup
-- trigger
+- auto b hup
+- trigger b0t
 - chara fast pic
